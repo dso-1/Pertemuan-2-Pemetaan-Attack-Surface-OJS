@@ -1,0 +1,1 @@
+http://10.34.100.178/ [200 OK] Apache[2.4.58], Bootstrap, Cookies[OJSSID], Country[RESERVED][ZZ], HTML5, HTTPServer[Ubuntu Linux][Apache/2.4.58 (Ubuntu)], IP[10.34.100.178], JQuery, MetaGenerator[Open Journal Systems 3.3.0.8], Script[text/javascript], Title[Title element contains newline(s)!]
